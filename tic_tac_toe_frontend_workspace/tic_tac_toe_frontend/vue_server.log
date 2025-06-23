@@ -3,18 +3,13 @@
 > vite dev --host 0.0.0.0 --port 3000
 
 
-  VITE v6.1.0  ready in 591 ms
+  VITE v6.1.0  ready in 535 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.17.0.2:3000/
   ➜  Vue DevTools: Open http://localhost:3000/__devtools__/ as a separate window
   ➜  Vue DevTools: Press Alt(⌥)+Shift(⇧)+D in App to toggle the Vue DevTools
-2:25:34 PM [vite] (client) hmr update /src/views/HomeView.vue
 [1m[33m[@vue/compiler-sfc][0m[33m `defineProps` is a compiler macro and no longer needs to be imported.[0m
 
 [1m[33m[@vue/compiler-sfc][0m[33m `defineEmits` is a compiler macro and no longer needs to be imported.[0m
 
-2:25:40 PM [vite] (client) hmr update /src/assets/main.css
-2:25:42 PM [vite] (client) hmr update /src/assets/main.css
-2:25:52 PM [vite] (client) hmr update /src/components/TicTacToeControls.vue
-2:25:54 PM [vite] (client) hmr update /src/views/TicTacToeGame.vue
